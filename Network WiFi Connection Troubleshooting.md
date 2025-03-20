@@ -28,6 +28,8 @@ One of the first steps in troubleshooting a network connection problem is figuri
 Cisco offers a detailed guide on troubleshooting Wi-Fi issues, covering basic steps such as verifying device connectivity, checking client adapter settings, and assessing access point configurations. It also addresses common problems like electromagnetic interference and client overloading.
 
 [Here is the Link](https://community.cisco.com/t5/wireless-mobility-knowledge-base/wifi-troubleshooting-cheat-sheet/ta-p/3108889?utm_source=chatgpt.com)
+After visited to the site i discoverd that 
+
 
 2. TechTarget: Troubleshoot Wireless Network Connection Problems in 10 Steps
 

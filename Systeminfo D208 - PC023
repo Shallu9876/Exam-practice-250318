@@ -1,0 +1,12 @@
+Here is the information about using systeminfo command tool
+
+[Here is the 1st link](https://superuser.com/questions/1022381/using-systeminfo-command-on-network-computer)
+
+[Here is the 2nd link](https://www.geeksforgeeks.org/commands-to-gather-system-information/)
+
+I have found more reliable information from this both mentioned links.
+Here i am going to explain this in my own words.
+To be begin with press the two keys Window+R and type cmd
+command prompt dialog box appears
+open it then type "systeminfo"
+All the information about your pc will be shown.

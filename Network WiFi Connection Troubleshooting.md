@@ -16,6 +16,8 @@
 3.Instructables: Features a user-friendly tutorial on troubleshooting home network issues, covering aspects like checking hardware connections, configuring network settings, and optimizing router placement. 
 [Here is the Link](https://www.instructables.com/How-to-troubleshoot-your-home-network/?utm_source=chatgpt.com)
 
+
+
 ## Find a 2 sites with trouble shooting info to the Access point or wifi router
 
 1. Cisco Community: WiFi Troubleshooting Cheat Sheet

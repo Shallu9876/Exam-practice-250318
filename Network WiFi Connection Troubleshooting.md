@@ -12,4 +12,10 @@
 
 ## Find a 2 sites with trouble shooting info to the Access point or wifi router
 
+1. Cisco Community: WiFi Troubleshooting Cheat Sheet
+
+Cisco offers a detailed guide on troubleshooting Wi-Fi issues, covering basic steps such as verifying device connectivity, checking client adapter settings, and assessing access point configurations. It also addresses common problems like electromagnetic interference and client overloading.
+
+[Here is the Link](https://community.cisco.com/t5/wireless-mobility-knowledge-base/wifi-troubleshooting-cheat-sheet/ta-p/3108889?utm_source=chatgpt.com)
+
 

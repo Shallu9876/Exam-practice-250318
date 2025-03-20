@@ -9,6 +9,8 @@
 2.TechTarget: Provides a step-by-step guide with 10 common troubleshooting steps to identify and resolve wireless network issues, such as checking hardware, using diagnostic tools, and performing DNS checks. 
 [Here is the Link](https://www.techtarget.com/searchnetworking/tip/Wireless-network-troubleshooting-Connectivity?utm_source=chatgpt.com)
 
+ Here is the  10 common steps for troubleshooting and exonerating the wireless network on the way to finding the source of trouble which is easy to understand the problem.
+
 
 
 3.Instructables: Features a user-friendly tutorial on troubleshooting home network issues, covering aspects like checking hardware connections, configuring network settings, and optimizing router placement. 

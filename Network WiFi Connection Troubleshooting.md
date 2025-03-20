@@ -16,6 +16,9 @@
 3.Instructables: Features a user-friendly tutorial on troubleshooting home network issues, covering aspects like checking hardware connections, configuring network settings, and optimizing router placement. 
 [Here is the Link](https://www.instructables.com/How-to-troubleshoot-your-home-network/?utm_source=chatgpt.com)
 
+One of the first steps in troubleshooting a network connection problem is figuring out if you have a valid IP address, and if it was configured automatically or manually. so it is a further way to fix your network problem in case of cables right connectivity.
+
+
 
 
 ## Find a 2 sites with trouble shooting info to the Access point or wifi router

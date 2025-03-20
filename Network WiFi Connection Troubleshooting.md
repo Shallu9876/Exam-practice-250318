@@ -4,6 +4,8 @@
 1. Microsoft Support: Offers a detailed walkthrough for resolving Wi-Fi connectivity problems on Windows devices, including running the Network troubleshooter and understanding Wi-Fi icons.
 [Here is the Link](https://support.microsoft.com/en-us/windows/fix-wi-fi-connection-issues-in-windows-9424a1f7-6a3b-65a6-4d78-7f07eee84d2c?utm_source=chatgpt.com)
 
+I found that this information into the link is more reliable than other link as its shows everything is detail with diagram.
+
 2.TechTarget: Provides a step-by-step guide with 10 common troubleshooting steps to identify and resolve wireless network issues, such as checking hardware, using diagnostic tools, and performing DNS checks. 
 [Here is the Link](https://www.techtarget.com/searchnetworking/tip/Wireless-network-troubleshooting-Connectivity?utm_source=chatgpt.com)
 

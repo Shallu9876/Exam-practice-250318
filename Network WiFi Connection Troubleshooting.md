@@ -1,4 +1,5 @@
 # Network WiFi Connection Troubleshoot.
+## Find a  3  sites with basic network wifi connection  trouble shooting.
 
 1. Microsoft Support: Offers a detailed walkthrough for resolving Wi-Fi connectivity problems on Windows devices, including running the Network troubleshooter and understanding Wi-Fi icons.
 [Here is the Link](https://support.microsoft.com/en-us/windows/fix-wi-fi-connection-issues-in-windows-9424a1f7-6a3b-65a6-4d78-7f07eee84d2c?utm_source=chatgpt.com)

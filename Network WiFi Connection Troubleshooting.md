@@ -18,4 +18,11 @@ Cisco offers a detailed guide on troubleshooting Wi-Fi issues, covering basic st
 
 [Here is the Link](https://community.cisco.com/t5/wireless-mobility-knowledge-base/wifi-troubleshooting-cheat-sheet/ta-p/3108889?utm_source=chatgpt.com)
 
+2. TechTarget: Troubleshoot Wireless Network Connection Problems in 10 Steps
+
+TechTarget provides a systematic approach to diagnosing and resolving wireless network issues. The guide includes steps like ensuring hardware is properly connected, troubleshooting wireless adapters, verifying TCP/IP settings, and performing DNS checks
+
+ [Here is the Link](https://www.techtarget.com/searchnetworking/tip/Wireless-network-troubleshooting-Connectivity?utm_source=chatgpt.com)
+ 
+
 

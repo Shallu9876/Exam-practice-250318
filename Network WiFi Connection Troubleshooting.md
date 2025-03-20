@@ -42,7 +42,7 @@ TechTarget provides a systematic approach to diagnosing and resolving wireless n
 
  [Here is the Link](https://www.techtarget.com/searchnetworking/tip/Wireless-network-troubleshooting-Connectivity?utm_source=chatgpt.com)
 
- Sometimes, the most obvious causes of system trouble can be the hardest to see. All of us make faulty assumptions at times. When we try to access the Wi-Fi network and nothing happens, it's best to start with the Basics.
+ Sometimes, the most obvious causes of system trouble can be the hardest to see. All of us make faulty assumptions at times. When we try to access the Wi-Fi network and nothing happens, it's best to start with the Basics
  
 
 

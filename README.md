@@ -44,3 +44,4 @@ Rufus will now create a bootable Windows USB drive.
 Complete:
 
 Wait for the process to finish. Once done, your USB drive is ready to install Windows.
+

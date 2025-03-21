@@ -15,3 +15,15 @@ Returns the result of the Associators of (<wmi_object>) query where <wmi_object>
  [Microsoft Commaands Overview](https://www.sciencedirect.com/topics/computer-science/wmic-command)
 
  [WMIC Tutorial](https://ss64.com/nt/wmic.html)
+
+## Here are some examples
+
+Disk Information: You can use the following command to get disk information on your computer:
+wmic diskdrive get caption, size, model
+
+Memory Information: To get information about the physical memory, use this command:
+wmic memorychip get capacity, speed, devicelocator
+
+Video Card Information: To check your system's video card details, use this command:
+wmic path win32_videocontroller get caption, deviceid, name
+

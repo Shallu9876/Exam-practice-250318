@@ -1,0 +1,17 @@
+Microsoft Windows [Version 10.0.26100.3476]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Work>wmic diskdrive get model, size, status
+Model                   Size           Status
+KINGSTON SUV400S37240G  240054796800   OK
+PC SN740 NVMe WD 1TB    1024203640320  OK
+
+
+C:\Work>wmic memorychip get capacity, speed, manufacturer
+Capacity     Manufacturer  Speed
+34359738368  80CE000080CE  4800
+
+
+C:\Work>wmic path win32_videocontroller get name, adapterram, driverversion
+AdapterRAM  DriverVersion  Name
+2147479552  32.0.101.6078  Intel(R) UHD Graphics 770
